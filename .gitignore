@@ -1,0 +1,16 @@
+# PowerShell Artifacts
+bin/
+obj/
+*.log
+*.ps1xml
+!*.format.ps1xml
+!*.types.ps1xml
+
+# Testing (Pester)
+TestResults/
+
+# VS Code settings
+.vscode/
+
+# Local Environment
+.env
