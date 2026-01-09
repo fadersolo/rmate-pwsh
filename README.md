@@ -23,7 +23,7 @@ Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/fadersolo/rmate-pwsh/
 ### Option 2: Clone the Repo
 
 ```PowerShell
-git clone [https://github.com/YOUR_USERNAME/rmate-pwsh.git](https://github.com/YOUR_USERNAME/rmate-pwsh.git)
+git clone [https://github.com/fadersolo/rmate-pwsh.git](https://github.com/fadersolo/rmate-pwsh.git)
 ```
 
 
