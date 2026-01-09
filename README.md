@@ -17,13 +17,13 @@ Download the `rmate.ps1` script and add it to your `PATH`.
 
 ```powershell
 # Example: Download to a Scripts folder
-Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/fadersolo/rmate-pwsh/main/rmate.ps1](https://raw.githubusercontent.com/fadersolo/rmate-pwsh/main/rmate.ps1)" -OutFile "$HOME\Documents\rmate.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/fadersolo/rmate-pwsh/main/rmate.ps1" -OutFile "$HOME\Documents\rmate.ps1"
 ```
 
 ### Option 2: Clone the Repo
 
 ```PowerShell
-git clone [https://github.com/fadersolo/rmate-pwsh.git](https://github.com/fadersolo/rmate-pwsh.git)
+git clone https://github.com/fadersolo/rmate-pwsh.git
 ```
 
 
